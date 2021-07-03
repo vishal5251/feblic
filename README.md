@@ -1,4 +1,4 @@
-# Getting Started with Create React App [Link](https://github.com/vishal5251/feblic)
+# Getting Started with Create React App [Link](https://vishal5251.github.io/feblic)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
