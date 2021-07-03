@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/feblic/static/css/main.236150c3.chunk.css",
+    "main.js": "/feblic/static/js/main.c583fda1.chunk.js",
+    "main.js.map": "/feblic/static/js/main.c583fda1.chunk.js.map",
+    "runtime-main.js": "/feblic/static/js/runtime-main.52101224.js",
+    "runtime-main.js.map": "/feblic/static/js/runtime-main.52101224.js.map",
+    "static/js/2.676311b4.chunk.js": "/feblic/static/js/2.676311b4.chunk.js",
+    "static/js/2.676311b4.chunk.js.map": "/feblic/static/js/2.676311b4.chunk.js.map",
+    "index.html": "/feblic/index.html",
+    "static/css/main.236150c3.chunk.css.map": "/feblic/static/css/main.236150c3.chunk.css.map",
+    "static/js/2.676311b4.chunk.js.LICENSE.txt": "/feblic/static/js/2.676311b4.chunk.js.LICENSE.txt",
+    "static/media/job.17690faf.png": "/feblic/static/media/job.17690faf.png",
+    "static/media/microdoses.f0f18c14.png": "/feblic/static/media/microdoses.f0f18c14.png",
+    "static/media/musee.7a0b9342.png": "/feblic/static/media/musee.7a0b9342.png",
+    "static/media/photo1.7e7a8f0c.jpg": "/feblic/static/media/photo1.7e7a8f0c.jpg",
+    "static/media/photo2.83921c50.jpg": "/feblic/static/media/photo2.83921c50.jpg",
+    "static/media/photo3.382ac758.jpg": "/feblic/static/media/photo3.382ac758.jpg",
+    "static/media/podcast.d92aff22.png": "/feblic/static/media/podcast.d92aff22.png",
+    "static/media/podcast1.c3ac5412.jpg": "/feblic/static/media/podcast1.c3ac5412.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52101224.js",
+    "static/js/2.676311b4.chunk.js",
+    "static/css/main.236150c3.chunk.css",
+    "static/js/main.c583fda1.chunk.js"
+  ]
+}
